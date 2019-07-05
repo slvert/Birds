@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<date> 
+  <!-- 管理员信息 -->  
+  <admin> 
+    <loginname>admin</loginname>  
+    <password>123</password>  
+    <logintimes>5</logintimes> 
+  </admin> 
+</date>
